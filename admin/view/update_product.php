@@ -91,9 +91,10 @@ if (is_file($img_path)) {
                         <label for="email1" class="col-sm-3 text-right control-label col-form-label">File Upload</label>
                         <div class=" col-md-9">
                             <div class="custom-file">
-                                <input type="file" class="custom-file-input" id="validatedCustomFile" name="img_pro" required>
+                            <input type="file"  name="img_pro">
+                                <!-- <input type="file" class="custom-file-input" id="validatedCustomFile" name="img_pro" required>
                                 <label class="custom-file-label" for="validatedCustomFile">Choose file...</label>
-                                <div class="invalid-feedback">Example invalid custom file feedback</div>
+                                <div class="invalid-feedback">Example invalid custom file feedback</div> -->
                             </div>
                         </div>
                     </div>

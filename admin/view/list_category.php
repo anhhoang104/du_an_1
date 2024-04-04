@@ -35,7 +35,7 @@
                                 <thead>
                                     <tr>
                                         <th>Mã Danh Mục</th>
-                                        <th>Hãng điện thoại</th>
+                                        <th>Tên danh mục</th>
                                         <th>Thao tác</th>
 
                                     </tr>
