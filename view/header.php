@@ -13,7 +13,7 @@ $total_amount = total_amount();
                 <!-- Begin Header Information Area -->
                 <div class="col-lg-3 col-md-6 col-sm-4">
                     <div class="header-info_area">
-                        <span class="text-light">Chào mừng đến với PhoneShop!</span>
+                        <span class="text-light">Chào mừng đến với Dior!</span>
                     </div>
                 </div>
                 <!-- Header Information Area End Here -->
@@ -76,7 +76,7 @@ $total_amount = total_amount();
                 <div class="col-lg-4 col-md-4 col-sm-6 col-6 order-1 order-lg-1 order-sm-1">
                     <div class="hm-logo">
                         <a href="index.php">
-                            <img src="./src/image/shop/logo_shop.png" alt="shopphone" width="65%" />
+                            <img src="./src/image/shop/dior.png" alt="dior" width="50%" />
                         </a>
                     </div>
                 </div>
@@ -271,18 +271,20 @@ $total_amount = total_amount();
 <style>
     /* Add this CSS to style the header area */
     header {
-        background-color: #0099FF;
-        color: #F0DE36;
+        background-color: #FFFFFF;
+        color: #000000;
     }
 
     /* Style for the navigation links in the header */
     .hmenu li a,
     .hm-dropdown li a,
-    .hm-menu li a,
+    .hm-menu li a{
+        color: #000000;
+    }
     .hmenu li a:hover,
     .hm-dropdown li a:hover,
-    .hm-menu li a:hover {
-        color: #F0DE36;
+    .hm-menu li a:hover{
+        color: red;
     }
 
     /* Style for the search input box */
@@ -309,13 +311,13 @@ $total_amount = total_amount();
     /* Style for the category menu in the header */
     .category-menu .category-heading span,
     .right-menu a {
-        color: #F0DE36;
+        color: #000000;
     }
 
     /* Style for the dropdown menu items in the header */
     .category-menu-list ul li a,
     .dropdown-content a {
-        color: #F0DE36;
+        color: #0084C5;
         /* Change this to your desired color for dropdown menu items */
     }
 
@@ -328,5 +330,16 @@ $total_amount = total_amount();
     /* Optional: Style for the header contact information */
     .contact-info a {
         color: #fff;
+    }
+    .hm-logo{
+        padding-left: 200px ;
+        padding-bottom: 10px;
+        padding-top: 15px;
+    }
+    .ht-menu{
+        background-color: while;
+    }
+    nav{
+        height: 50px;
     }
 </style>

@@ -1,125 +1,13 @@
-<div class="slider-with_banner">
-  <div class="container-fluid p-0">
-    <div class="row g-0">
-      <div class="col-lg-6">
-        <div class="jb-slider_area jb-slider_area-3">
-          <div class="main-slider">
-            <!-- Begin Single Slide Area -->
-            <div class="single-slide animation-style-01 bg-5">
-              <div class="slider-content">
-                <h3>20% Off Xail Laptop</h3>
-                <h2>Xail Pro D140</h2>
-                <h5>Only Price: $1130.00</h5>
-                <div class="jb-btn-ps_center slide-btn">
-                  <a class="jb-btn" href="shop-left-sidebar.html">Shop Now</a>
-                </div>
-              </div>
-              <div class="slider-progress"></div>
-            </div>
-            <!-- Single Slide Area End Here -->
-            <!-- Begin Single Slide Area -->
-            <div class="single-slide animation-style-02 bg-6">
-              <div class="slider-content slider-content-2">
-                <h3>Wireless Speaker</h3>
-                <h2>Sound 360</h2>
-                <h5>Starting at $240.00</h5>
-                <div class="jb-btn-ps_center slide-btn">
-                  <a class="jb-btn" href="shop-left-sidebar.html">Shop Now</a>
-                </div>
-              </div>
-              <div class="slider-progress"></div>
-            </div>
-            <!-- Single Slide Area End Here -->
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-6">
-        <div class="row g-0">
-          <div class="col-lg-12">
-            <div class="jb-banner_area">
-              <div class="row g-0">
-                <div class="col-lg-6 col-md-6">
-                  <div class="banner-full banner-item">
-                    <a href="shop-left-sidebar.html">
-                      <!-- <img src="src/image/banner/1-6.jpg" alt="JB's Banner"> -->
-                    </a>
-                  </div>
-                </div>
-                <div class="col-lg-6 col-md-6">
-                  <div class="row g-0">
-                    <div class="col-lg-12">
-                      <div class="banner-half-1 banner-item">
-                        <a href="shop-left-sidebar.html">
-                          <!-- <img src="src/image/banner/1-7.jpg" alt="JB's Banner"> -->
-                        </a>
-                      </div>
-                    </div>
-                    <div class="col-lg-12">
-                      <div class="banner-half-2 banner-item">
-                        <a href="shop-left-sidebar.html">
-                          <!-- <img src="src/image/banner/1-8.jpg" alt="JB's Banner"> -->
-                        </a>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
 
-<!-- Begin JB's Banner With Content Two Area -->
-<div class="banner-with-content_area-3">
-  <!-- Begin JB's Banner Content Area -->
-  <div class="jb-banner_content">
-    <span>Premium eCommerce Html Template</span>
-    <h3>Jano D40</h3>
-    <h4>20% Off Digital Camera</h4>
-    <h5>Starting at $19.00</h5>
-    <div class="jb-btn-ps_center">
-      <a class="jb-btn-bondi_blue" href="shop-left-sidebar.html">Shop Now</a>
-    </div>
-  </div>
-  <!-- JB's Banner Content Area End Here -->
-</div>
+
+
 <!-- JB's Banner With Content Two Area End Here -->
 
 <!-- Begin JB's Banner Four Columns Area -->
 <div class="jb-banner_area banner-four_columns">
-  <div class="row g-0 remove-g-0_md">
-    <div class="col-lg-3 col-md-6 col-sm-6">
-      <div class="banner-item">
-        <a href="shop-left-sidebar.html">
-          <img src="src/image/banner/1-1.jpg" alt="JB's Banner" />
-        </a>
-      </div>
-    </div>
-    <div class="col-lg-3 col-md-6 col-sm-6">
-      <div class="banner-item">
-        <a href="shop-left-sidebar.html">
-          <img src="src/image/banner/1-2.jpg" alt="JB's Banner" />
-        </a>
-      </div>
-    </div>
-    <div class="col-lg-3 col-md-6 col-sm-6">
-      <div class="banner-item">
-        <a href="shop-left-sidebar.html">
-          <img src="src/image/banner/1-3.jpg" alt="JB's Banner" />
-        </a>
-      </div>
-    </div>
-    <div class="col-lg-3 col-md-6 col-sm-6">
-      <div class="banner-item">
-        <a href="shop-left-sidebar.html">
-          <img src="src/image/banner/1-4.jpg" alt="JB's Banner" />
-        </a>
-      </div>
-    </div>
-  </div>
+<video autoplay loop muted>
+                    <source type="video/mp4" src="src/image/banner/video.mp4">
+                </video>
 </div>
 <!-- JB's Banner Four Columns Area End Here -->
 
@@ -134,8 +22,8 @@
             <i class="fa fa-truck"></i>
           </div>
           <div class="shipping-text">
-            <h5>Free Shipping</h5>
-            <span>Free shipping on all UK orders</span>
+            <h5>Miễn phí vận chuyển</h5>
+            <span>Miễn phí đơn hàng trên 300.000đ</span>
           </div>
         </div>
       </div>
@@ -147,8 +35,8 @@
             <i class="fa fa-credit-card"></i>
           </div>
           <div class="shipping-text">
-            <h5>Payment On Delivery</h5>
-            <span>Cash On Delivery Option</span>
+            <h5>Thanh toán khi giao hàng</h5>
+            <span>Tùy chọn giao hàng thanh toán tiền mặt</span>
           </div>
         </div>
       </div>
@@ -160,8 +48,8 @@
             <i class="fa fa-calendar"></i>
           </div>
           <div class="shipping-text">
-            <h5>Free Guarantee</h5>
-            <span>30 Days Money Back</span>
+            <h5>Đảm bảo miễn phí</h5>
+            <span>Hoàn đơn trong vòng 30 ngày</span>
           </div>
         </div>
       </div>
@@ -173,8 +61,8 @@
             <i class="fas fa-star-of-life"></i>
           </div>
           <div class="shipping-text">
-            <h5>24/7 Online Suport</h5>
-            <span>We Have Support 24/7</span>
+            <h5>Hỗ trợ trực tuyến 24/7</h5>
+            <span>Chúng tôi có hỗ trợ 24/7</span>
           </div>
         </div>
       </div>
@@ -192,13 +80,13 @@
         <div class="product-tab">
           <ul class="nav product-menu">
             <li>
-              <a class="active" data-bs-toggle="tab" href="#new-arrival"><span>New Arrival</span></a>
+              <a class="active" data-bs-toggle="tab" href="#new-arrival"><span>Sản phẩm mới</span></a>
             </li>
             <li>
-              <a data-bs-toggle="tab" href="#bestseller"><span>Bestseller</span></a>
+              <a data-bs-toggle="tab" href="#bestseller"><span>Sản phẩm bán chạy</span></a>
             </li>
             <li>
-              <a data-bs-toggle="tab" href="#featured-products"><span>Featured Products</span></a>
+              <a data-bs-toggle="tab" href="#featured-products"><span>Sản phẩm nổi bật</span></a>
             </li>
           </ul>
         </div>
@@ -412,14 +300,14 @@
       <div class="col-lg-6">
         <div class="banner-item">
           <a href="shop-left-sidebar.html">
-            <img src="src/image/banner/1-10.jpg" alt="JB's Banner" />
+            <img src="src/image/banner/10.jpg" alt="JB's Banner" />
           </a>
         </div>
       </div>
       <div class="col-lg-6">
         <div class="banner-item">
           <a href="shop-left-sidebar.html">
-            <img src="src/image/banner/1-11.jpg" alt="JB's Banner" />
+            <img src="src/image/banner/13.jpg" alt="JB's Banner" />
           </a>
         </div>
       </div>
@@ -436,7 +324,7 @@
       <div class="col-lg-12">
         <div class="product-tab product-tab-2">
           <div class="product-tab_heading">
-            <h4>2022 Trending</h4>
+            <h4>2024 Trending</h4>
           </div>
           <ul class="nav product-menu">
             <li>
@@ -523,11 +411,10 @@
 
 <div class="banner-with_newsletter">
   <div class="newsletter-content">
-    <h2 class="newsletter-heading">Join Our</h2>
-    <h3 class="newsletter-sub_heading">Newsletter Now!</h3>
+    <h2 class="newsletter-heading">Chào mừng!</h2>
+    <h3 class="newsletter-sub_heading">Sản phẩm mới nhất.</h3>
     <p class="short-desc">
-      Subscribe to the Jobaria mailing list to receive updates on new arrivals,
-      offers and other discount information.
+      Đăng kí danh sách gửi thư của Dior để nhận thông tin cập nhật về hàng mới, ưu đãi và thông tin giảm giá khác.
     </p>
     <div class="newsletter-form_wrap">
       <form action="http://devitems.us11.list-manage.com/subscribe/post?u=6bbb9b6f5827bd842d9640c82&amp;id=05d85f18ef" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="newsletters-form validate" target="_blank" novalidate>
@@ -544,54 +431,7 @@
   </div>
 </div>
 
-<!-- Begin JB's Blog Area -->
-<div class="jb-blog_area jb-banner_area">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12">
-        <div class="section_title-2">
-          <h4>Latest Blog</h4>
-        </div>
-      </div>
-      <div class="col-lg-12">
-        <div class="jb-blog_slider">
-          <div class="blog-item">
-            <div class="blog-img banner-item">
-              <a href="blog-details-left-sidebar.html">
-                <img src="src/image/blog/1.jpg" alt="JB's Blog src/image" />
-              </a>
-            </div>
-            <div class="blog-content">
-              <div class="blog-heading">
-                <h5>
-                  <a href="blog-details-left-sidebar.html">This Is First Post For XipBlog</a>
-                </h5>
-              </div>
-              <div class="blog-meta">
-                <div class="meta-author">
-                  <span>HasTech</span>
-                </div>
-                <div class="blog-time_schedule">
-                  <span class="day">28</span>
-                  <span class="month">Mar</span>
-                </div>
-              </div>
-              <div class="blog-short_desc">
-                <p>
-                  Lorem Ipsum is simply dummy text of the printing and
-                  typesetting industry. Lorem Ipsum has been ...
-                </p>
-              </div>
-              <div class="jb-read-more_area">
-                <a href="blog-details-left-sidebar.html" class="jb-read_more">Read More</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
+
 <!-- JB's Blog Area End Here -->
 
 <!-- Begin JB's Brand Area -->
@@ -642,3 +482,13 @@
     </div>
   </div>
 </div>
+<style>
+      video {
+ /* position: absolute; */
+ top: 0;
+ left: 0;
+ width: 100%;
+ height: 85vh;
+ object-fit: cover;
+}
+</style>
