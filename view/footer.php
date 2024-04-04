@@ -8,18 +8,17 @@
         <div class="footer-widgets_info">
           <div class="footer-widgets_logo">
             <a href="#">
-              <img src="/src/image/footer/logo/1.png" alt="JB's Footer Logo">
+              <img src="src/image/footer/logo/1.png" alt="JB's Footer Logo">
             </a>
           </div>
           <div class="short-desc">
-            <p>There are many variations of passages of Lorem Ipsum available, but the majorited have
-              suffered alteration.</p>
+            <p>Cảm ơn quý khách đã ghé thăm cửa hàng của chúng tôi, chúng tôi luôn hoàn thiện mình để cho quý khách có trải nghiệm tốt nhất.</p>
           </div>
           <div class="widgets-essential_stuff">
             <ul>
-              <li class="jb-address"><span>Address:</span> 169-C, Technohub, Dubai Silicon Oasis.</li>
-              <li class="jb-email"><span>Mail us:</span> <a href="mailto://info@yourdomain.com">info@yourdomain.com</a></li>
-              <li class="jb-phone"><span>Phone:</span> <a href="tel://+123123321345">+123 321 345</a>
+              <li class="jb-address"><span>Địa chỉ:</span> Số 22A, 322/95/29, Mĩ Đình 1, Nam Từ Liêm, Hà Nội.</li>
+              <li class="jb-email"><span>Email:</span> <a href="mailto://info@yourdomain.com">miphamchinhhang@gmail.com</a></li>
+              <li class="jb-phone"><span>Điện thoại:</span> <a href="tel://+123123321345">+123 321 345</a>
               </li>
             </ul>
           </div>
@@ -60,49 +59,49 @@
         <div class="footer-widgets-with_banner">
           <div class="widgets-banner">
             <a href="#">
-              <img src="/src/image/footer/widgets-banner.jpg" alt="Widgets Banner">
+              <img src="src/image/footer/widgets-banner.jpg" alt="Widgets Banner">
             </a>
           </div>
           <div class="row">
             <div class="col-lg-4 col-md-4 col-sm-6">
               <div class="footer-widgets_title">
-                <h5>Products</h5>
+                <h5>Các sản phẩm</h5>
               </div>
               <div class="footer-widgets">
                 <ul>
-                  <li><a href="#">Legal Notice</a></li>
-                  <li><a href="#">About Us</a></li>
-                  <li><a href="#">Prices Drop</a></li>
-                  <li><a href="#">New Products</a></li>
-                  <li><a href="#">Best sales</a></li>
+                  <li><a href="#">Thông báo pháp lý</a></li>
+                  <li><a href="#">Về chúng tôi</a></li>
+                  <li><a href="#">Giảm giá</a></li>
+                  <li><a href="#">Sản phảm mới</a></li>
+                  <li><a href="#">Bán hàng tốt nhất</a></li>
                 </ul>
               </div>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-6">
               <div class="footer-widgets_title">
-                <h5>Our Company</h5>
+                <h5>Công ty chúng tôi</h5>
               </div>
               <div class="footer-widgets">
                 <ul>
-                  <li><a href="#">Legal Notice</a></li>
-                  <li><a href="#">About Us</a></li>
-                  <li><a href="#">Contact Us</a></li>
-                  <li><a href="#">Sitemap</a></li>
-                  <li><a href="#">Stores</a></li>
+                  <li><a href="#">Thông báo pháp lý</a></li>
+                  <li><a href="#">Về chúng tôi</a></li>
+                  <li><a href="#">Liên hệ với chúng tôi</a></li>
+                  <li><a href="#">Sơ đồ trang web</a></li>
+                  <li><a href="#">Cửa hàng</a></li>
                 </ul>
               </div>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-6">
               <div class="footer-widgets_title">
-                <h5>Your Account</h5>
+                <h5>Tài khoản của bạn</h5>
               </div>
               <div class="footer-widgets">
                 <ul>
-                  <li><a href="#">Personal Info</a></li>
-                  <li><a href="#">Orders</a></li>
-                  <li><a href="#">Credit Slips</a></li>
-                  <li><a href="#">Addresses</a></li>
-                  <li><a href="#">My Wishlists</a></li>
+                  <li><a href="#">Thông tin cá nhân</a></li>
+                  <li><a href="#">Đơn hàng</a></li>
+                  <li><a href="#">Phiếu tin dụng</a></li>
+                  <li><a href="#">Địa chỉ</a></li>
+                  <li><a href="#">Danh sách mong muốn của tôi</a></li>
                 </ul>
               </div>
             </div>
