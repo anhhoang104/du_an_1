@@ -449,6 +449,11 @@ if (isset($_GET['act']) && ($_GET['act'] != "")) {
             }
             include "view/lienhe.php";
             break;
+
+         case 'introduce':
+            include "view/gioithieu.php";
+            break;
+
         default:
             include "view/content.php";
             break;
