@@ -43,7 +43,7 @@
 
                                 </div>
                                 <div class="form-group row">
-                                    <label for="email1" class="col-sm-3 text-right control-label col-form-label">Tên hãng</label>
+                                    <label for="email1" class="col-sm-3 text-right control-label col-form-label">Tên danh mục</label>
                                     <div class="col-sm-9">
                                         <input type="text" name="name_cate" class="form-control" placeholder="Điền tên hãng  vào đây" required>
                                     </div>
