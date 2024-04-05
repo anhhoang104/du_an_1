@@ -138,7 +138,7 @@ a {
   text-decoration: none;
 }
 a:hover {
-  color: white !important;
+  color: pink !important;
   text-decoration: none;
 }
 a:not([href]):not([tabindex]):hover {
@@ -1705,7 +1705,7 @@ button {
 
 /* ---Banner With Newsletter--- */
 .banner-with_newsletter {
-  background-image: url("../image/banner/2-5.jpg");
+  background-image: url("../image/banner/14.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;

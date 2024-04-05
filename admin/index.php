@@ -41,7 +41,7 @@ if (isset($_GET['act'])) {
             }
 
             break;
-
+       
 
 
         case "add_product":

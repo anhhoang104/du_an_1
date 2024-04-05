@@ -271,7 +271,7 @@ $total_amount = total_amount();
 <style>
     /* Add this CSS to style the header area */
     header {
-        background-color: #FFFFFF;
+        background-color: #FFE0E6;
         color: #000000;
     }
 
@@ -281,11 +281,11 @@ $total_amount = total_amount();
     .hm-menu li a{
         color: #000000;
     }
-    .hmenu li a:hover,
+    /* .hmenu li a:hover,
     .hm-dropdown li a:hover,
     .hm-menu li a:hover{
         color: red;
-    }
+    } */
 
     /* Style for the search input box */
     .jb-search_input {
@@ -305,11 +305,11 @@ $total_amount = total_amount();
 
     /* Style for the cart total amount in the header */
     .item_total span {
-        color: #fff;
+        color: pink;
     }
 
     /* Style for the category menu in the header */
-    .category-menu .category-heading span,
+    /* .category-menu .category-heading span, */
     .right-menu a {
         color: #000000;
     }
@@ -323,7 +323,7 @@ $total_amount = total_amount();
 
     /* Style for the links in the header top right area */
     .ht-menu a,
-    .ht-menu a:hover {
+    .ht-menu a:hover{
         color: #fff;
     }
 
@@ -334,7 +334,7 @@ $total_amount = total_amount();
     .hm-logo{
         padding-left: 200px ;
         padding-bottom: 10px;
-        padding-top: 15px;
+        padding-top: 18px;
     }
     .ht-menu{
         background-color: while;
@@ -342,4 +342,5 @@ $total_amount = total_amount();
     nav{
         height: 50px;
     }
+    
 </style>
