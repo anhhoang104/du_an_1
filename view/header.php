@@ -271,7 +271,7 @@ $total_amount = total_amount();
 <style>
     /* Add this CSS to style the header area */
     header {
-        background-color: #FFE0E6;
+        background-color: #F2F2F4;
         color: #000000;
     }
 
