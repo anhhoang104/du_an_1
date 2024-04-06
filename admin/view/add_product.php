@@ -41,7 +41,7 @@
                                     </div>
                                 </div>
                                 <div class="form-group row">
-                                    <label for="email1" class="col-sm-3 text-right control-label col-form-label">Hãng điện thoai</label>
+                                    <label for="email1" class="col-sm-3 text-right control-label col-form-label">Danh mục</label>
                                     <div class="col-sm-9">
                                         <select class="form-control" name="idcate" id="exampleFormControlSelect1" required>
                                             <option value="0">Chọn loại</option>
