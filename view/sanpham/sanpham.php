@@ -1,4 +1,4 @@
-<!-- Begin JB's Breadcrumb Area -->
+
 <div class="breadcrumb-area">
     <div class="container">
         <div class="breadcrumb-content">
@@ -9,13 +9,13 @@
         </div>
     </div>
 </div>
-<!-- JB's Breadcrumb Area End Here -->
 
-<!-- Begin JB's Content Wrapper Area -->
+
+
 <div class="jb-content_wrapper">
     <div class="container">
         <div class="row">
-            <!-- Begin Sidebar Categories Area -->
+           
             <div class="col-lg-3 order-2 order-lg-1">
                 <div class="jb-sidebar-catagories_area">
                     <div class="sidebar-checkbox first-child">
@@ -36,23 +36,26 @@
                         </ul>
                     </div>
 
-                    <!-- Begin JB's Sidebar Banner Area -->
+                   
                     <div class="jb-sidebar_banner">
                         <div class="banner-item">
                             <a href="#">
-                                <img src="./src/image/shop/1.jpg" alt="Ultraphone Product">
+                                <img src="./src/image/shop/3.jpg" alt="Ultraphone Product">
                             </a>
                         </div>
                     </div>
-                    <!-- JB's Sidebar Banner Area End Here -->
-                    <!-- Show sản phẩm được đề xuất -->
-                    <div class="row sidebar-list_product">
+              
+
+
+
+
+                    <!-- <div class="row sidebar-list_product">
                         <div class="col-lg-12">
                             <div class="section_title-2">
                                 <h4>Được đề xuất</h4>
                             </div>
                             <div class="jb-list-product_slider">
-                                <!-- Begin JB's Slide Item Area -->
+                               
                                 <?php
                                 foreach ($list_topsp as $topsp) { ?>
                                     <div class="jb-slide-item">
@@ -84,10 +87,16 @@
                                     </div>';
                                 <?php } ?>
 
-                                <!-- JB's Slide Item Area End Here -->
+                                
                             </div>
                         </div>
                     </div>
+ -->
+
+
+
+
+
                     <!-- JB's List Product Slider Area End Here -->
                 </div>
             </div>
