@@ -206,11 +206,11 @@
                 </div>
               <?php } ?>
 
-              <!-- End sản phẩm bán chạy -->
+            
             </div>
           </div>
 
-          <!-- show sản phẩm nổi bật -->
+          
 
           <div id="featured-products" class="tab-pane" role="tabpanel">
             <div class="jb-product-tab_slider">
@@ -287,13 +287,7 @@
     </div>
   </div>
 </div>
-<!-- JB's Product Tab Area End Here -->
 
-<!-- Begin JB's Special Product Area -->
-
-<!-- JB's Special Product Area End Here -->
-
-<!-- Begin JB's Banner With Two Columns Area -->
 <div class="jb-banner_area banner-two_columns">
   <div class="container">
     <div class="row g-0">
@@ -314,9 +308,7 @@
     </div>
   </div>
 </div>
-<!-- JB's Banner With Two Columns Area End Here -->
 
-<!-- Begin JB's Product Tab Area Two -->
 
 <div class="jb-product-tab_area jb-product-tab_area-2">
   <div class="container">
@@ -399,7 +391,7 @@
                 </div>
               </div>
             <?php } ?>
-            <!-- end phần show sản phẩm nổi bật -->
+           
           </div>
         </div>
       </div>
@@ -407,7 +399,7 @@
   </div>
 </div>
 
-<!-- JB's Product Tab Area Two End Here -->
+
 
 <div class="banner-with_newsletter">
   <div class="newsletter-content">
@@ -432,7 +424,7 @@
 </div>
 
 
-<!-- JB's Blog Area End Here -->
+
 
 
     </div>

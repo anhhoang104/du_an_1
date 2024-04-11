@@ -55,16 +55,7 @@
                                     <?php endforeach ?>
 
                                 </tbody>
-                                <tfoot>
-                                    <tr>
-                                        <th>Mã Danh Mục</th>
-                                        <th>Hãng điện thoại</th>
-                                        <th>Số Lượng</th>
-                                        <th>Giá thấp nhất</th>
-                                        <th>Giá cao nhất nhất</th>
-
-                                    </tr>
-                                </tfoot>
+                                <!--  -->
                             </table>
                         </div>
 

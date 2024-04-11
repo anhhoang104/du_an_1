@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="zxx">
-<!-- Mirrored from htmldemo.net/jobaria/jobaria/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 07 Nov 2022 14:12:32 GMT -->
 
 <head>
   <meta charset="utf-8" />
@@ -42,7 +41,7 @@
 </head>
 
 <body>
-  <!-- Begin JB's Body Wrapper Area -->
+
   <div class="wrapper">
     <!-- Begin Loading Area -->
     <!-- <div class="loading">

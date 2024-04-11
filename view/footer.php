@@ -1,10 +1,9 @@
-<!-- JB's Footer Top Area End Here -->
-<!-- Begin JB's Footer Middle Area -->
+
 <br> <br>
 <div class="footer-middle_area bg--nero">
   <div class="container">
     <div class="row">
-      <!-- Begin Footer Widgets Information Area -->
+   
       <div class="col-lg-4">
         <div class="footer-widgets_info">
           <div class="footer-widgets_logo">
@@ -54,8 +53,7 @@
           </div>
         </div>
       </div>
-      <!-- Footer Widgets Information Area End Here -->
-      <!-- Begin Footer Widgets With Banner Area -->
+      
       <div class="col-lg-8">
         <div class="footer-widgets-with_banner">
           <div class="widgets-banner">
@@ -109,17 +107,13 @@
           </div>
         </div>
       </div>
-      <!-- Footer Widgets With Banner Area End Here -->
+     
     </div>
   </div>
 </div>
-<!-- JB's Footer Middle Area End Here -->
-<!-- Begin JB's Footer Bottom Area -->
 
 </div>
-<!-- JB's Footer Area End Here -->
 
-<!-- Begin JB's Modal Area -->
 <div class="modal fade modal-wrapper" id="exampleModalCenter">
   <div class="modal-dialog modal-dialog-centered" role="document">
     <div class="modal-content">
@@ -239,16 +233,15 @@
     </div>
   </div>
 </div>
-<!-- JB's Modal Area End Here -->
+
 
 </div>
-<!-- JB's Body Wrapper Area End Here -->
+
 <script src="src/js/plugins.min.js"></script>
 <script src="src/js/ajax-mail.js"></script>
 <script src="src/js/main.js"></script>
 </body>
 
 
-<!-- Mirrored from htmldemo.net/jobaria/jobaria/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 11 Jul 2023 03:55:24 GMT -->
 
 </html>

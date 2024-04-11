@@ -15,7 +15,7 @@ if (isset($_SESSION['pay'])) {
 
 ?>
 <!DOCTYPE html>
-<!-- saved from url=(0014)about:internet -->
+
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head id="j_idt2">
@@ -29,22 +29,22 @@ if (isset($_SESSION['pay'])) {
     <meta http-equiv="expires" content="0">
     <meta http-equiv="pragma" content="no-cache">
     <link rel="stylesheet" href="https://muaclonefb.com/assets/libs/bootstrap.min.css" />
-    <!-- Google fonts - Roboto -->
+  
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,700" />
-    <!-- theme stylesheet-->
+    
     <link rel="stylesheet" href="https://muaclonefb.com/assets/libs/style.default.css" id="theme-stylesheet" />
-    <!-- Custom stylesheet - for your changes-->
+    
     <link rel="stylesheet" href="https://muaclonefb.com/assets/libs/style-version=1.0.css" />
     <link rel="stylesheet" href="https://muaclonefb.com/assets/css/qr-code.css" />
     <link rel="stylesheet" href="https://muaclonefb.com/assets//libs/qr-code-tablet.css" />
-    <!-- Font Awesome CDN-->
+   
     <link rel="stylesheet" href="https://muaclonefb.com/assets/libs/font-awesome.min.css" />
     <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <!-- Cute Alert -->
+    
     <link class="main-stylesheet" href="https://muaclonefb.com/assets/libs/style.css" rel="stylesheet" type="text/css">
     <script src="https://muaclonefb.com/assets/libs/cute-alert.js"></script>
-    <!-- jQuery -->
+    
     <script src="https://muaclonefb.com/assets//libs/jquery-3.6.0.js"></script>
     <link rel="apple-touch-icon" sizes="180x180" href="/upload/favicon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/upload/favicon.png">
@@ -104,7 +104,7 @@ if (isset($_SESSION['pay'])) {
                                 <p><i class="fa fa-credit-card" aria-hidden="true"></i>
                                     <span style="padding-left: 5px;">Số tài khoản</span>
                                     <br>
-                                    <b id="copyStk" style="padding-left: 25px;word-break: keep-all;color:greenyellow;">60000000003</b>
+                                    <b id="copyStk" style="padding-left: 25px;word-break: keep-all;color:greenyellow;">0335248856</b>
                                     <i onclick="copy()" data-clipboard-target="#copyStk" class="fas fa-copy copy"></i>
                                 </p>
                             </div>
@@ -112,7 +112,7 @@ if (isset($_SESSION['pay'])) {
                                 <p><i class="fa fa-user" aria-hidden="true"></i>
                                     <span style="padding-left: 5px;">Chủ tài khoản</span>
                                     <br>
-                                    <span style="padding-left: 25px;word-break: keep-all;">Đỗ Quang Linh</span>
+                                    <span style="padding-left: 25px;word-break: keep-all;">Hoàng Anh</span>
                                 </p>
                             </div>
                             <div class="entry">
@@ -131,98 +131,7 @@ if (isset($_SESSION['pay'])) {
                                 </p>
                             </div>
                             <div class="entry">
-                                <p><i class="fa fa-barcode" aria-hidden="true"></i>
-                                    <span style="padding-left: 5px;">Trạng thái <i class="fa fa-spinner fa-spin"></i>
-                                    </span>
-                                    <br>
-
-                                    <span id="status_payment" style="padding-left: 25px;word-break: break-all;">
-                                        <p class="mb-0 text-warning font-weight-bold d-flex justify-content-start align-items-center mt-5" style="margin-top: 20%">
-                                            <!-- <small><svg class="mr-2" xmlns="http://www.w3.org/2000/svg" width="18" viewBox="0 0 24 24" fill="none">
-                                                    <circle cx="12" cy="12" r="8" fill="#db7e06"></circle>
-                                                </svg>
-                                            </small>Sau Khi Thanh Toán Thành Công Vui Lòng Quay Lại Trang Chủ Chờ Khoảng 3p Tiền Sẻ Được Tự Động Cập Nhật -->
-                                            <a href="../index.php?act=billconfirm" class="text-white">
-                                                <i class="fa fa-arrow-left" aria-hidden="true"></i>
-                                                <span>Quay lại</span></a>
-                                        </p>
-                                    </span>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xs-12 col-sm-12 col-md-8 right">
-                        <div class="content">
-                            <div class="row">
-                                <div class="col-xs-12 col-sm-12 col-md-12">
-                                    <div class="message" id="loginForm">
-                                        <div class="row">
-                                            <div class="col-xs-12 col-sm-12 col-md-12">
-                                                <div class="qr-code">
-                                                    <div class="payment-cta">
-                                                        <div>
-                                                            <h1>Quét mã QR để thanh toán</h1>
-                                                        </div>
-                                                        <a>Sử dụng <b> App Internet Banking </b> hoặc ứng dụng camera hỗ trợ
-                                                            QR code để
-                                                            quét mã</a>
-                                                    </div>
-                                                    <!-- <img src="https://api.vietqr.io/image/970423-56703122003/<?php echo $amount ?>/full.jpg?NDck=<?php echo $commnet ?>&FullName=PHAM%20HONG%20VIET%20HA" width="100%"> -->
-<img src="https://api.vietqr.io/image/970423-56703122003-g28ObPf.jpg?amount=<?php echo $amount ?>&addInfo=<?php echo $commnet ?>&accountName=Quy%20Vac%20Xin%20Covid" alt="" width="100%">
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                <?php } else { ?>
-                    <div class="col-xs-12 col-sm-12 col-md-4" style="background-color: #a50064; color:white">
-                        <div class="info-box">
-                            <div class="entry">
-                                <p><i class="fa fa-university" aria-hidden="true"></i>
-                                    <span style="padding-left: 5px;">Phương thức</span>
-                                    <br>
-                                    <span style="padding-left: 25px;word-break: keep-all;">MOMO</span>
-                                </p>
-                            </div>
-                            <div class="entry">
-                                <p><i class="fa fa-credit-card" aria-hidden="true"></i>
-                                    <span style="padding-left: 5px;">Số điện thoại</span>
-                                    <br>
-                                    <b id="copyStk" style="padding-left: 25px;word-break: keep-all;color:greenyellow;">0334623400</b>
-                                    <i onclick="copy()" data-clipboard-target="#copyStk" class="fas fa-copy copy"></i>
-                                </p>
-                            </div>
-                            <div class="entry">
-                                <p><i class="fa fa-user" aria-hidden="true"></i>
-                                    <span style="padding-left: 5px;">Chủ tài khoản</span>
-                                    <br>
-                                    <span style="padding-left: 25px;word-break: keep-all;">Phạm Hồng Việt Hà</span>
-                                </p>
-                            </div>
-                            <div class="entry">
-                                <p><i class="fa fa-money" aria-hidden="true"></i>
-                                    <span style="padding-left: 5px;">Số tiền cần thanh toán</span>
-                                    <br>
-                                    <b style="padding-left: 25px;color:aqua;"><?= number_format($amount) ?> đ</b>
-                                </p>
-                            </div>
-                            <div class="entry">
-                                <p><i class="fa fa-comment" aria-hidden="true"></i>
-                                    <span style="padding-left: 5px;">Nội dung chuyển khoản</span>
-                                    <br>
-                                    <b id="copyNoiDung" style="padding-left: 25px;word-break: keep-all;color:yellow;"><?= $commnet ?></b>
-                                    <i onclick="copy()" data-clipboard-target="#copyNoiDung" class="fas fa-copy copy"></i>
-                                </p>
-                            </div>
-                            <div class="entry">
-                                <p><i class="fa fa-barcode" aria-hidden="true"></i>
-                                    <span style="padding-left: 5px;">Trạng thái <i class="fa fa-spinner fa-spin"></i>
-                                    </span>
-                                    <br>
+                                <p>
 
                                     <span id="status_payment" style="padding-left: 25px;word-break: break-all;">
                                         <p class="mb-0 text-warning font-weight-bold d-flex justify-content-start align-items-center mt-5" style="margin-top: 20%">
@@ -248,15 +157,13 @@ if (isset($_SESSION['pay'])) {
                                                         <div>
                                                             <h1>Quét mã QR để thanh toán</h1>
                                                         </div>
-                                                        <a>Sử dụng <b> App MOMO </b> hoặc ứng dụng camera hỗ trợ
+                                                        <a>Sử dụng <b> App Internet Banking </b> hoặc ứng dụng camera hỗ trợ
                                                             QR code để
                                                             quét mã</a>
                                                     </div>
-                                                    <img src="https://quickchart.io/qr?text=2|99|0334623400|PHAM HONG VIET HA||0|0|<?= $amount ?>|<?= $commnet ?>|transfer_myqr&ecLevel=H&size=1000" width="50%" style="margin-top:20%">
+                                                    
+                                                    <img src="../src/image/qrnh2.jpg" style="width:100%" alt="">
 
-                                                    <div>
-                                                        <span class="mt-5"><i class="fa fa-spinner fa-spin"></i> Đang chờ bạn quét ...</span>
-                                                    </div>
                                                 </div>
                                             </div>
                                         </div>
@@ -265,25 +172,16 @@ if (isset($_SESSION['pay'])) {
                             </div>
                         </div>
                     </div>
+                <?php } else { ?>
+                    
+                    <div class="col-xs-12 col-sm-12 col-md-8 right">
+                        
+                    </div>
                 <?php } ?>
 
             </div>
         </div>
-        <div class="container-fluid hidden-xs">
-            <div class="row">
-                <div class="col-xs-12 col-sm-12 col-md-12">
-                    <div class="copyrights text-center">
-                        <p style="color: #737373;   font-size: 11pt; font-weight: bold;">
-                            <br>
-                            Vui lòng thanh toán vào thông tin tài khoản trên để hệ thống xử lý hoá đơn tự động.
-                        </p>
-                        <a href="?act=billconfirm">
-                            <i class="fa fa-arrow-left" aria-hidden="true"></i>
-                            <span>Quay lại</span></a>
-                    </div>
-                </div>
-            </div>
-        </div>
+      
     </div>
     <script src="https://muaclonefb.com/assets//libs/tracking-version=1.2.js"></script>
     <script src="https://muaclonefb.com/assets//libs/jquery.min.js"></script>

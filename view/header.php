@@ -227,13 +227,11 @@ $total_amount = total_amount();
                         </div>
                     </div>
                 </div>
-                <!-- JB's Category Menu Area End Here -->
-
-                <!-- Begin Header Search Area -->
+               
                 <div class="col-xl-7 col-lg-6 col-md-5">
                     <div class="header-search_area">
                         <form action="index.php?act=product" method="post" class="header-search_box">
-                            <!-- Thêm menu drop-down cho danh mục -->
+                          
 
 
                             <input class="jb-search_input" name="kyw" type="text" placeholder="Nhập từ khóa tìm kiếm ..." required />
@@ -254,28 +252,26 @@ $total_amount = total_amount();
                         </form>
                     </div>
                 </div>
-                <!-- Header Search Area End Herer -->
-
-                <!-- Begin Header Contact Information Area -->
+           
                 <div class="col-xl-2 col-lg-3 col-md-3">
                     <div class="contact-info">
                         <a href="tel://+84335099885"><i class="fa fa-phone-volume"></i> +84 335248856</a>
                     </div>
                 </div>
-                <!-- Header Contact Information Area End Here -->
+               
             </div>
         </div>
     </div>
 
 </header>
 <style>
-    /* Add this CSS to style the header area */
+    
     header {
         background-color: #F2F2F4;
         color: #000000;
     }
 
-    /* Style for the navigation links in the header */
+   
     .hmenu li a,
     .hm-dropdown li a,
     .hm-menu li a{
@@ -287,47 +283,45 @@ $total_amount = total_amount();
         color: red;
     } */
 
-    /* Style for the search input box */
+    
     .jb-search_input {
         background-color: #222;
         color: #000;
         border: 1px solid #fff;
     }
 
-    /* Style for the search button */
+    
     .jb-search_btn {}
 
-    /* Style for the cart icon and item count in the header */
+    
     .minicart-icon i,
     .item-count {
         color: #F0DE36;
     }
 
-    /* Style for the cart total amount in the header */
+
     .item_total span {
         color: pink;
     }
 
-    /* Style for the category menu in the header */
-    /* .category-menu .category-heading span, */
+    
     .right-menu a {
         color: #000000;
     }
 
-    /* Style for the dropdown menu items in the header */
+   
     .category-menu-list ul li a,
     .dropdown-content a {
         color: #0084C5;
-        /* Change this to your desired color for dropdown menu items */
+        
     }
 
-    /* Style for the links in the header top right area */
+  
     .ht-menu a,
     .ht-menu a:hover{
         color: #fff;
     }
 
-    /* Optional: Style for the header contact information */
     .contact-info a {
         color: #fff;
     }
