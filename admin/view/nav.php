@@ -55,8 +55,8 @@
            
             <nav class="sidebar-nav">
                 <ul id="sidebarnav" class="p-t-30">
-                    <li class="sidebar-item"> <a class="sidebar-link waves-effect waves-dark sidebar-link" href="index.php?act=dashboard" aria-expanded="false"><span class="hide-menu">Dashboard</span></a></li>
-                    <li class="sidebar-item"> <a class="sidebar-link waves-effect waves-dark sidebar-link" href="index.php?act=chart" aria-expanded="false"></i><span class="hide-menu">Charts</span></a></li>
+                    <li class="sidebar-item"> <a class="sidebar-link waves-effect waves-dark sidebar-link" href="index.php?act=dashboard" aria-expanded="false"><span class="hide-menu">Trang chủ admin</span></a></li>
+                    <li class="sidebar-item"> <a class="sidebar-link waves-effect waves-dark sidebar-link" href="index.php?act=chart" aria-expanded="false"></i><span class="hide-menu">Thống kê</span></a></li>
 
                     <li class="sidebar-item"> <a class="sidebar-link has-arrow waves-effect waves-dark" href="javascript:void(0)" aria-expanded="false"><span class="hide-menu">Danh mục</span></a>
                         <ul aria-expanded="false" class="collapse  first-level">
