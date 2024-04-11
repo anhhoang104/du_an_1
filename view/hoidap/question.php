@@ -42,9 +42,10 @@
                                     line-height: 23px;padding: 10px 20px;font-size: 14px;color: #888888;margin-bottom: 15px;border-radius: 8px;" 
                                     placeholder="Nhập câu hỏi của bạn..." name="contennt" required></textarea>
                              </div>                          
-                             <div class="col-12 wrap-btn-sub" style="margin-left:30%;">
-                                 <input type="submit"  class="btn-submit" name="btn_question" value="Gửi" style="margin-top: 30px;">
-                             </div>
+                             <!-- <div class="col-12 wrap-btn-sub" style="margin-left:30%;"> -->
+                                 <!-- <input type="submit"  class="btn-submit" name="btn_question" value="Gửi" style="margin-top: 30px;"> -->
+                                 <input type="submit" value="Gửi">
+                             <!-- </div> -->
                          </div>
                      </div>
                  </form>

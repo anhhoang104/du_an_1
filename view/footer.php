@@ -1,5 +1,6 @@
 <!-- JB's Footer Top Area End Here -->
 <!-- Begin JB's Footer Middle Area -->
+<br> <br>
 <div class="footer-middle_area bg--nero">
   <div class="container">
     <div class="row">
@@ -7,18 +8,18 @@
       <div class="col-lg-4">
         <div class="footer-widgets_info">
           <div class="footer-widgets_logo">
-            <a href="#">
+            <!-- <a href="#">
               <img src="src/image/footer/logo/1.png" alt="JB's Footer Logo">
-            </a>
+            </a> -->
           </div>
           <div class="short-desc">
             <p>Cảm ơn quý khách đã ghé thăm cửa hàng của chúng tôi, chúng tôi luôn hoàn thiện mình để cho quý khách có trải nghiệm tốt nhất.</p>
           </div>
           <div class="widgets-essential_stuff">
             <ul>
-              <li class="jb-address"><span>Địa chỉ:</span> Số 22A, 322/95/29, Mĩ Đình 1, Nam Từ Liêm, Hà Nội.</li>
-              <li class="jb-email"><span>Email:</span> <a href="mailto://info@yourdomain.com">miphamchinhhang@gmail.com</a></li>
-              <li class="jb-phone"><span>Điện thoại:</span> <a href="tel://+123123321345">+123 321 345</a>
+              <li class="jb-address"><span>Địa chỉ:</span> Số 4 Hào Nam , Ô Chợ Dừa , Đống Đa , Hà Nội</li>
+              <li class="jb-email"><span>Email:</span> <a href="#">hoanganhtctk@gmail.com</a></li>
+              <li class="jb-phone"><span>Điện thoại:</span> <a href="tel://+84 335248856">+84 335248856</a>
               </li>
             </ul>
           </div>
@@ -59,7 +60,7 @@
         <div class="footer-widgets-with_banner">
           <div class="widgets-banner">
             <a href="#">
-              <img src="src/image/footer/widgets-banner.jpg" alt="Widgets Banner">
+              <img src="src/image/footer/banner1.jpg" style="width:100%" alt="Widgets Banner">
             </a>
           </div>
           <div class="row">

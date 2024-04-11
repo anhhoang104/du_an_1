@@ -15,7 +15,7 @@
             <!-- form đăng nhập-->
             <form action="index.php?act=contact" method="post">
                 <div class="login-form">
-                    <h2 style="text-align: center;">Liên hệ PhoneShop</h2>
+                    <h2 style="text-align: center;">Liên hệ với DIOR</h2>
                     <div class="row">
                         <div class="col-md-12 col-12">
                             <labe style="font-weight: 700;">Họ và tên</labe>

@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <!-- Favicon icon -->
-    <link rel="icon" type="image/png" sizes="16x16" href="view/assets/images/favicon.png">
+   
     <title>Dior</title>
     <!-- Custom CSS -->
     <link href="view/dist/css/style.min.css" rel="stylesheet">
@@ -41,8 +41,8 @@
         <div class="auth-wrapper d-flex no-block justify-content-center align-items-center bg-dark">
             <div class="auth-box bg-dark border-top border-secondary">
                 <div id="loginform">
-                    <div class="text-center p-t-20 p-b-20">
-                        <span class="db"><img src="view/assets/images/logo.png" alt="logo" /></span>
+                    <div class="text-center p-t-20 p-b-20" >
+                         <h2 style="color:white">Đăng nhập DIOR Admin</h2>
                     </div>
                     <!-- Form -->
                     <form class="form-horizontal m-t-20" id="loginform" action="index.php?act=login" method="post">

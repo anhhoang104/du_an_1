@@ -9,8 +9,8 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <!-- Favicon icon -->
-    <link rel="icon" type="image/png" sizes="16x16" href="view/assets/images/favicon.png">
-    <title>Dior</title>
+    <!-- <link rel="icon" type="image/png" sizes="16x16" href="view/assets/images/favicon.png"> -->
+    <title>Dior Admin</title>
     <!-- Custom CSS -->
     <link href="view/assets/libs/flot/css/float-chart.css" rel="stylesheet">
     <!-- Custom CSS -->
