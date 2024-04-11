@@ -10,7 +10,7 @@
     <meta name="author" content="">
     <!-- Favicon icon -->
     <!-- <link rel="icon" type="image/png" sizes="16x16" href="view/assets/images/favicon.png"> -->
-    <title>Dior Admin</title>
+    <title>Dior's Admin</title>
     <!-- Custom CSS -->
     <link href="view/assets/libs/flot/css/float-chart.css" rel="stylesheet">
     <!-- Custom CSS -->
