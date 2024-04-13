@@ -82,12 +82,12 @@
             <li>
               <a class="active" data-bs-toggle="tab" href="#new-arrival"><span>Sản phẩm mới</span></a>
             </li>
-            <li>
+            <!-- <li>
               <a data-bs-toggle="tab" href="#bestseller"><span>Sản phẩm bán chạy</span></a>
             </li>
             <li>
               <a data-bs-toggle="tab" href="#featured-products"><span>Sản phẩm nổi bật</span></a>
-            </li>
+            </li> -->
           </ul>
         </div>
         <div class="tab-content jb-tab_content">

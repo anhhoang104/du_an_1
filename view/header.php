@@ -113,9 +113,9 @@ $total_amount = total_amount();
                                 <li>
                                     <a href="index.php?act=contact">Liên hệ</a>
                                 </li>
-                                <li>
+                                <!-- <li>
                                     <a href="index.php?act=question">Hỏi đáp</a>
-                                </li>
+                                </li> -->
                             </ul>
                         </nav>
                     </div>
