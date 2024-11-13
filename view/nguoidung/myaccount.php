@@ -22,15 +22,8 @@
                 <div class="row">
                     <div class="col-lg-3">
                         <ul class="nav myaccount-tab-trigger" id="account-page-tab" role="tablist">
-                            <li class="nav-item">
-                                <a class="nav-link active" id="account-dashboard-tab" data-bs-toggle="tab" href="#account-dashboard" role="tab" aria-controls="account-dashboard" aria-selected="true">Bảng điều khiển</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" id="account-orders-tab" data-bs-toggle="tab" href="#account-orders" role="tab" aria-controls="account-orders" aria-selected="false">Đơn hàng</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" id="account-address-tab" data-bs-toggle="tab" href="#account-address" role="tab" aria-controls="account-address" aria-selected="false">Địa chỉ</a>
-                            </li>
+                           
+                           
                             <li class="nav-item">
                                 <a class="nav-link" id="account-details-tab" data-bs-toggle="tab" href="#account-details" role="tab" aria-controls="account-details" aria-selected="false">Thông tin tài khoản</a>
                             </li>
@@ -44,65 +37,9 @@
                     </div>
                     <div class="col-lg-9">
                         <div class="tab-content myaccount-tab-content" id="account-page-tab-content">
-                            <div class="tab-pane fade show active" id="account-dashboard" role="tabpanel" aria-labelledby="account-dashboard-tab">
-                                <div class="myaccount-dashboard">
-                                    <p>Xin chào, <b><?= ($_SESSION['user']['full_name']) ?></b> (không phải <?= ($_SESSION['user']['full_name']) ?>? <a href="index.php?act=logout" onclick="return confirm('Bạn chắc chắc muốn đăng xuất tài khoản?')" style="font-weight: 600;">Đăng xuất</a>)</p>
-                                    <p>Từ bảng điều khiển tài khoản của mình, bạn có thể xem các đơn đặt hàng gần đây, quản
-                                        lý địa chỉ giao hàng và thanh toán cũng như chỉnh sửa mật khẩu và thông
-                                        tin chi tiết tài khoản của mình.</p>
-                                </div>
-                            </div>
-                            <div class="tab-pane fade" id="account-orders" role="tabpanel" aria-labelledby="account-orders-tab">
-                                <div class="myaccount-orders">
-                                    <h4 class="small-title">ĐƠN HÀNG CỦA TÔI</h4>
-                                    <div class="table-responsive">
-                                        <table class="table table-bordered table-hover">
-                                            <tbody>
-                                                <tr>
-                                                    <th>Mã đơn hàng</th>
-                                                    <th>Ngày đặt hàng</th>
-                                                    <th>Số lượng</th>
-                                                    <th>Trạng thái</th>
-                                                    <th>Tổng tiền</th>
-                                                </tr>
-                                                <?php
-                                                foreach ($list_mybill as $bill) :
-                                                    extract($bill);
-                                                    $stt = get_stt($status);
-                                                    $countpro = loadall_countcart($id_bill);
-                                                ?>
-                                                    <tr>
-                                                        <td><a class="account-order-id" href="#">PHVPH-<?= $id_bill ?></a></td>
-                                                        <td><?= $order_date ?></td>
-                                                        <td><?= $countpro ?></td>
-                                                        <td><?= $stt ?></td>
-                                                        <td><?= number_format($total_amount) ?>₫</td>
-                                                    </tr>
-                                                <?php endforeach ?>
-                                            </tbody>
-                                        </table>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="tab-pane fade" id="account-address" role="tabpanel" aria-labelledby="account-address-tab">
-                                <div class="myaccount-address">
-                                    <p>Địa chỉ của bạn được sử dụng để đặt và nhận hàng.</p>
-                                    <div class="row">
-                                        <div class="col">
-                                            <h4 class="small-title">Địa chỉ thanh toán</h4>
-                                            <address>
-                                                <?= ($_SESSION['user']['address']) ?>
-                                            </address>
-                                        </div>
-                                        <div class="col">
-                                            <h4 class="small-title">Địa chỉ nhận hàng</h4>
-                                            <address>
-                                                <?= ($_SESSION['user']['address']) ?>
-                                            </address>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                           
+                            
+                           
                             <div class="tab-pane fade" id="account-details" role="tabpanel" aria-labelledby="account-details-tab">
                                 <div class="myaccount-details">
                                     <div class="avt-user mb-3 text-center">

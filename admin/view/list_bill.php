@@ -17,7 +17,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Danh sách sản phẩm</h5>
                         <div class="mb-3">
-    <button class="btn btn-primary filter-payment" data-filter="all">All</button>
+    <!-- <button class="btn btn-primary filter-payment" data-filter="all">All</button>
     <button class="btn btn-success filter-payment" data-filter="paid">Đã thanh toán</button>
     <button class="btn btn-danger filter-payment" data-filter="unpaid">Chưa thanh toán</button>
 
@@ -26,7 +26,7 @@
     <button class="btn btn-warning filter-status" data-filter="processing">Đang xử lý</button>
     <button class="btn btn-primary filter-status" data-filter="shipping">Đang giao hàng</button>
     <button class="btn btn-success filter-status" data-filter="delivered">Đã giao hàng</button>
-    <button class="btn btn-danger filter-status" data-filter="canceled">Đã hủy</button>
+    <button class="btn btn-danger filter-status" data-filter="canceled">Đã hủy</button> -->
 </div>
                         <div class="table-responsive">
                             <table id="zero_config" class="table table-striped table-bordered">

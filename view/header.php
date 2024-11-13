@@ -1,9 +1,5 @@
 <!-- Begin JB's Header Area -->
-<?php
-$count = countcart();
-$total_amount = total_amount();
 
-?>
 
 <header>
     <!-- Begin Header Top Area -->

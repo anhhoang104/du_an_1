@@ -55,17 +55,17 @@
                     <div style=" margin-left:25%;">
                         <h5 style="padding:10px;">
                             <i class="fa fa-map-marker" style="color:red;"></i>
-                            <span style="color: rgb(239 68 68);">Trịnh Văn Bô Nam Từ Liêm, Hà Nội</span>
+                            <span style="color: rgb(239 68 68);">Số 4 Hào Nam, Ô Chợ Dừa , Đống Đa, Hà Nội</span>
                         </h5>
 
                         <h5 style="padding:10px;">
                             <i class="fa fa-phone" style="color: rgb(2 132 199);"></i>
-                            <span style="color: rgb(14 165 233);">+0375616574</span>
+                            <span style="color: rgb(14 165 233);">0335248856</span>
                         </h5>
 
                         <h5 style="padding:10px;">
                             <i class="fa fa-envelope" style="color: rgb(245 158 11);"></i>
-                            <a href="#" style="	color: rgb(251 191 36);">fpt.education@gmail.com</a>
+                            <a href="#" style="	color: rgb(251 191 36);">hoanganhtctk@gmail.com</a>
                         </h5>
                     </div>
 
